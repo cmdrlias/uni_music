@@ -1,7 +1,7 @@
 # Music player para android
-### Desenvolvimento para Web e Dispositivos móveis
-### Professor: Lucas Schmidt
-### Feito por: Larissa Isabel Abreu e Silva (11713155) e Raí Sousa Aris (117115300)
+#### Desenvolvimento para Web e Dispositivos móveis
+##### Feito por: Larissa Isabel Abreu e Silva (11713155) e Raí Sousa Aris (117115300)
+###### Professor: Lucas Schmidt
 
 Trabalho feito em Flutter para a aula
 
